@@ -1,0 +1,21 @@
+#boxA{
+    border: 1px solid;
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+
+    position: relative;
+    left: 250px;
+    right: 250px;
+
+}
+#boxB{
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+    background-color: tomato;
+
+    position: absolute;
+    left: 100px;
+    right: 100px;
+}
